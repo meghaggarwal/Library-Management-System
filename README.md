@@ -1,5 +1,5 @@
 # Library-Management-System
-Performed CRUD operation using OOP's concept in Python and Pandas Library to implement a simple workflow of library system.
+Performed CRUD operation using OOP's concept in Python and Pandas Library to implement a simple workflow of library.
 
 CRUD operations that can be tested here are -
 
